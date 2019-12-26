@@ -2,7 +2,7 @@ function semak(nokp){
 	var ajaxRequest;  // The variable that makes Ajax possible!
   	//alert(nokp);
 	if(nokp==""){
-		alert("Sila masukkan No. Kad Pengenalan / Sijil Lahir");
+		alert("Sila masukkandawdwad No. Kad Pengenalan / Sijil Lahir");
 		document.getElementById("txtIC").focus();
 		return false;
 	}
